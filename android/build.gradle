@@ -29,6 +29,7 @@ android {
     lintOptions {
         abortOnError false
     }
+    namespace 'com.facebook.reactnative'
 }
 
 repositories {
